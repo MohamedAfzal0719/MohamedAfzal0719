@@ -1,141 +1,130 @@
-<h1 align="center">⚡ MOHAMED AFZAL – COMPUTER SCIENCE Student</h1>
+<!-- ================= TOP BACKGROUND BAR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:6366F1,100:14B8A6&height=35" width="100%"/>
 
----
+<!-- ================= HEADER ================= -->
+<h1 align="center">✨ MOHAMED AFZAL ✨</h1>
+<p align="center"><b>Computer Science Student</b></p>
 
-<!-- Wavy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header" width="100%">
+<hr style="border:2px solid #14B8A6; width:50%; border-radius:10px">
+
+<!-- ================= INFO ROW ================= -->
+<table align="center" cellpadding="12">
+<tr>
+<td align="center" style="border:1px solid #E5E7EB; border-radius:10px;">🧠 <b>Focus</b><br>AI & ML</td>
+<td align="center" style="border:1px solid #E5E7EB; border-radius:10px;">🎓 <b>University</b><br>Crescent University<br>B.Tech – CSE</td>
+<td align="center" style="border:1px solid #E5E7EB; border-radius:10px;">📚 <b>Learning</b><br>Deep Learning<br>Data Science</td>
+<td align="center" style="border:1px solid #E5E7EB; border-radius:10px;">✨ <b>Interest</b><br>Artificial Intelligence</td>
+</tr>
+</table>
 
 <br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=28&center=true&vCenter=true&width=650&height=60&lines=Artificial+Intelligence;Machine+Learning;Data+Science;ML%2FDL+Enthusiast" />
+  <img src="https://img.shields.io/badge/STATUS-Preparing%20Good%20Projects-14B8A6?style=for-the-badge">
 </p>
 
+<hr style="border:1px dashed #94A3B8; width:75%">
 
-<!-- Badge Row 1 -->
-<p align="center">
+<!-- ================= ABOUT ME ================= -->
+## 🧠 About Me
 
-  <!-- University -->
-  <img src="https://img.shields.io/badge/Crescent%20University-B.Tech%20%26%20CSE-4B9CD3?style=for-the-badge">
+<p style="line-height:1.6">
 
+**CSE undergraduate** with a strong foundation in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics**. Experienced in building predictive models, performing data preprocessing, and extracting insights through exploratory data analysis. Skilled in developing AI-driven applications using **Python, SQL, TensorFlow**, and related technologies.
 
-  <!-- Focus -->
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6A5ACD?style=for-the-badge">
-
-
-  <!-- Learning -->
-  <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20Data%20Science-20B2AA?style=for-the-badge">
-
-
-  <!-- Interest -->
-  <img src="https://img.shields.io/badge/Interest-Artificial%20Intelligence-FF6F00?style=for-the-badge">
+Hands-on experience in designing end-to-end machine learning pipelines, training deep neural networks, and deploying web-based applications. Passionate about applying AI to solve real-world problems, with interests in **healthcare analytics, NLP, image processing, and intelligent automation**.
 
 </p>
 
+🔹 **AI Chatbots & Apps:** Ration Bot, Waste Segregation, Online Food Delivery Web App, Fitness Chatbot  
+🔹 **Research:** NLP-based intent modeling & conversational AI optimization  
+🔹 **Skills:** Python, Java, SQL, ML, DL, Data Preprocessing  
+🔹 **Current Focus:** DSA in Java & AI/ML  
 
-<!-- Badge Row 2 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Preparinng%20Good%20Projects-orange?style=for-the-badge">
-</p>
+<hr style="border:1px solid #CBD5E1; width:85%">
 
----
-
-## 👩‍💻 About Me  
-I'm a **final-year B.Tech Artificial Intelligence & Data Science student** with strong hands-on experience in Machine Learning, Deep Learning, and data-driven problem solving.  
-I focus on building reliable healthcare prediction models, smart analytical systems, and efficient software solutions.
-
-My work includes ML-based classification models, deep learning pipelines, and web applications powered by APIs.  
-I aim to create impactful solutions that are practical, accurate, and scalable.
-
-🧠 Developed AI-powered chatbots & applications: Ration Bot, Waste Segregation, Online Food Delivery Web App, Fitness Chatbot
-
-🧪 Research work involving NLP-based intent modeling, conversational AI design,  and ML-driven decision optimization for intelligent chatbot applications
-
-📊 Skilled in **Python, Java, SQL, Machine Learning, Deep Learning & Data Preprocessing**  
-
-💡 Currently strengthening **DSA in Java and AI & ML** for placement preparation  
-
----
-
+<!-- ================= TECH STACK ================= -->
 ## 🛠 Technical Stack
 
-### 👩‍💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 👩‍💻 Programming & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-6366F1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Technologies
+<pre>
+Python   ██████████░░ 90%
+Java     █████████░░░ 85%
+SQL      ████████░░░░ 80%
+</pre>
 
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+### ⚙ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-14B8A6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
----
+<hr style="border:1px dashed #94A3B8; width:75%">
 
+<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-### ♻️ * Waste Segregation — AI Application*
-- AI-based system to classify different types of waste
-- Segregates waste into wet, dry & recyclable categories
+### ♻️ Waste Segregation — AI Application
+▮▮▮▮▮▮▮▮▯▯  
+- AI-based system to classify different types of waste  
+- Segregates waste into wet, dry & recyclable categories  
 - Supports smart and sustainable waste management  
 
 ---
 
-### 🛒 *Ration Bot — AI Chatbot*
-- Conversational AI chatbot for ration-related services
-- Provides eligibility checks, scheme details & FAQs
+### 🛒 Ration Bot — AI Chatbot
+▮▮▮▮▮▮▮▯▯▯  
+- Conversational AI chatbot for ration-related services  
+- Provides eligibility checks, scheme details & FAQs  
 - NLP-driven rule-based assistance system  
 
 ---
 
-### 🍔 *Online Food Delivery — Web Application*
-- Web-based platform for online food ordering
-- Features menu browsing, cart management & order flow
+### 🍔 Online Food Delivery — Web Application
+▮▮▮▮▮▮▮▮▮▯  
+- Web-based platform for online food ordering  
+- Features menu browsing, cart management & order flow  
 - User-friendly interface with real-time interaction  
 
 ---
 
-### 🏋️ * Fitness Chatbot — AI Application*
-- AI-powered chatbot for calorie calculation
-- Estimates calories based on food intake & activities
-- Supports fitness tracking and healthy lifestyle planning 
+### 🏋️ Fitness Chatbot — AI Application
+▮▮▮▮▮▮▮▮▯▯  
+- AI-powered chatbot for calorie calculation  
+- Estimates calories based on food intake & activities  
+- Supports fitness tracking and healthy lifestyle planning  
 
----
+<hr style="border:1px solid #CBD5E1; width:85%">
 
+<!-- ================= CONNECT ================= -->
 ## 🔗 Connect With Me
 
-<p align="left">
-
-  <a href="https://github.com/MohamedAfzal0719" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:afzalmohamed098@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202
-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-</p>
-
-
----
-
-## 📊 GitHub Stats
+<p align="center"><i>Let’s connect and collaborate 🚀</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAfzal0719&layout=compact&theme=tokyonight&langs_count=8" height="150">
+  <a href="https://github.com/MohamedAfzal0719">
+    <img src="https://img.shields.io/badge/GitHub-MohamedAfzal0719-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:afzalmohamed098@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afzalmohamed098@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer" width="100%">
+<!-- ================= BOTTOM BACKGROUND BAR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:6366F1,100:14B8A6&height=35&section=footer" width="100%"/>
