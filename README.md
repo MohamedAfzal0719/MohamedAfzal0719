@@ -1,14 +1,28 @@
-<!-- ====================== ANIMATED HEADER ====================== -->
+<!-- ====================== PREMIUM CYBER HEADER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+AI+Systems;FastAPI+%7C+LLMs+%7C+RAG+%7C+Automation;Backend+Developer+%7C+Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Scalable+AI+Systems;FastAPI+%7C+LLMs+%7C+RAG+%7C+Automation;Backend+Developer+%7C+Problem+Solver"/>
 </p>
 
 ---
 
-<p align="center">
+<table>
+<tr>
+<td width="65%">
+
+# 🚀 AI/ML ENGINEER
+
+### Generative AI Developer • Backend Developer
+
+📧 [afzalmohamed098@gmail.com](mailto:afzalmohamed098@gmail.com)
+📱 +91 7305587959
+📍 Chennai, India
+
+<br>
+
+<p>
   <a href="mailto:afzalmohamed098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -22,13 +36,15 @@
   </a>
 </p>
 
----
+</td>
 
-<div align="center">
+<td width="35%">
 
-# ⚡ AI • AUTOMATION • INTELLIGENCE ⚡
+<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="260"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,36 +52,39 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-✨ Passionate AI/ML Engineer focused on building intelligent systems, scalable backend applications, and modern AI workflows.
+✨ Passionate and self-driven AI/ML Engineer with strong practical experience in building intelligent systems, scalable backend applications, and Generative AI workflows.
+
+💡 Experienced in designing modern AI-powered applications using scalable architectures and intelligent automation systems.
 
 🚀 Strong practical exposure in:
 
 ✔ Generative AI & LLM Applications
 ✔ Machine Learning & Deep Learning
 ✔ RAG Architectures
-✔ Intelligent Automation
-✔ Workflow Orchestration
 ✔ Backend API Development
+✔ Workflow Orchestration
+✔ Intelligent Automation
 ✔ Validation Pipelines
 ✔ Runtime Event Handling
-✔ Scalable System Design
+✔ Scalable Backend Systems
+✔ Problem Solving & Optimization
 
-💡 Skilled in designing AI-powered applications using:
-
-```yaml id="1t7s4d"
-Python • FastAPI • Flask • LangGraph
-Node.js • SQL • MongoDB • REST APIs
-```
-
-🎯 Currently focused on building production-ready AI systems and scalable backend architectures.
+🎯 Focused on building production-ready AI systems with scalable backend architectures and modern automation workflows.
 
 </td>
 
-<td width="40%">
+<td width="35%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAfzal0719&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+# 🚀 WHAT DRIVES ME
+
+🎯 Building impactful AI solutions
+📚 Continuously learning technologies
+⚡ Writing scalable backend systems
+🧠 Solving real-world problems
+🚀 Exploring intelligent automation
+💡 Creating production-ready systems
 
 </td>
 </tr>
@@ -73,26 +92,67 @@ Node.js • SQL • MongoDB • REST APIs
 
 ---
 
-# 🛠 TECH UNIVERSE
+# ⚡ TECH STACK
+
+<table>
+<tr>
+
+<td width="33%">
+
+# 👨‍💻 LANGUAGES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,mongodb,nodejs,flask,fastapi,git,vscode"/>
+Python • Java • JavaScript • SQL
 
 </div>
 
----
+</td>
 
-# 🤖 AI STACK
+<td width="33%">
+
+# 🤖 AI / ML
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-14B8A6?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
+
+<div align="center">
+
+Machine Learning
+Deep Learning
+Generative AI
+RAG
+LLM Applications
+
+</div>
+
+</td>
+
+<td width="33%">
+
+# ⚙ FRAMEWORKS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,git,vscode"/>
+</p>
+
+<div align="center">
+
+FastAPI • Flask
+Node.js • MongoDB
+Git • VS Code
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -100,151 +160,190 @@ Node.js • SQL • MongoDB • REST APIs
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 🧠 LangGraph AI QA System
+# 🧠 LangGraph AI QA System
 
-```yaml id="31t1wz"
+```yaml
 FastAPI • LangGraph • Gemini API
 ```
 
-✨ Intelligent AI Question Answering Platform
+✨ AI-powered question answering platform with structured workflow orchestration.
 
-✔ Generator-Validator Workflow
-✔ Retry Handling Logic
-✔ AI Response Validation
-✔ Structured Workflow Design
-✔ Reliable AI Outputs
+### 🔹 Features
+
+* Generator-Validator Workflow
+* Retry Handling Logic
+* AI Response Validation
+* Controlled AI State Flow
+* Reliable AI Output Generation
 
 </td>
 
 <td width="50%">
 
-## 🎬 AI Movie Synopsis Evaluation
+# 🎬 AI Movie Synopsis Evaluation
 
-```yaml id="q7v9s2"
+```yaml
 Flask • Gemini API • Python
 ```
 
-✨ Multi-Agent AI Evaluation System
+✨ Multi-agent AI system for intelligent movie synopsis analysis.
 
-✔ Genre Classification
-✔ AI-based Scoring
-✔ Automated Evaluation
-✔ Prompt-driven AI Flow
-✔ Modular Backend Architecture
+### 🔹 Features
+
+* Genre Classification
+* AI-based Scoring
+* Automated Evaluation
+* Prompt-driven AI Workflows
+* Modular Backend Architecture
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 📋 AI Task Manager
+# 📋 AI Task Manager
 
-```yaml id="w2s7a1"
+```yaml
 Python • REST APIs • JSON
 ```
 
-✨ Intelligent AI Task Automation
+✨ Intelligent task automation powered by Generative AI.
 
-✔ Natural Language Tasks
-✔ Validation Pipelines
-✔ Workflow Management
-✔ Intelligent Automation
-✔ State-driven Processing
+### 🔹 Features
+
+* Natural Language Task Creation
+* Workflow Management
+* Intelligent Automation
+* Validation Pipelines
+* State-driven Processing
 
 </td>
 
 <td width="50%">
 
-## 🍔 PuduSuvai Food Delivery App
+# 🍔 PuduSuvai Food Delivery App
 
-```yaml id="f4x8p0"
+```yaml
 Node.js • Express.js • JavaScript
 ```
 
-✨ Full-stack Food Ordering Platform
+✨ Full-stack responsive food ordering application.
 
-✔ REST API Integration
-✔ Cart & Order System
-✔ Responsive UI Design
-✔ Client-Server Communication
-✔ Backend Architecture
+### 🔹 Features
+
+* REST API Integration
+* Cart & Order Management
+* Responsive UI Design
+* Client-Server Communication
+* Modular Backend Architecture
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 SKILL MATRIX
+# 📊 SKILLS & EXPERTISE
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAfzal0719&theme=tokyonight&hide_border=true"/>
+<td width="50%">
 
-</p>
+### 🚀 TECHNICAL SKILLS
 
----
+| Skill            | Progress                 |
+| ---------------- | ------------------------ |
+| Python           | ████████████████████ 90% |
+| Generative AI    | ██████████████████░ 88%  |
+| Machine Learning | █████████████████░░ 85%  |
+| FastAPI          | ████████████████░░░ 82%  |
+| SQL              | ███████████████░░░░ 80%  |
+| Java             | ██████████████░░░░░ 78%  |
+| JavaScript       | █████████████░░░░░░ 75%  |
 
-# ⚡ DEVELOPMENT FLOW
+</td>
 
-```text id="0r7x2s"
-AI Idea 💡
-   ↓
-Problem Analysis 🔍
-   ↓
-Workflow Design ⚙
-   ↓
-Backend Architecture 🧠
-   ↓
-LLM Integration 🤖
-   ↓
-Validation Pipelines ✅
-   ↓
-Deployment 🚀
-```
+<td width="50%">
+
+### 🧠 CORE COMPETENCIES
+
+✔ Analytical Thinking
+✔ Problem Solving
+✔ System Design
+✔ Backend Development
+✔ Technical Communication
+✔ Debugging & Optimization
+✔ Team Collaboration
+✔ Intelligent Automation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 ACHIEVEMENTS
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%">
 
 🥈 2nd Place — Men’s Physique Competition
-🏏 Competitive Cricket Tournament Participation
-🚀 Built Multiple AI & Full-stack Applications
+
+🏏 Participated in Competitive Cricket Tournaments
+
+🚀 Developed Multiple AI & Full-stack Applications
+
 🧠 Strong Interest in AI Research & Intelligent Systems
 
-</div>
+</td>
 
----
+<td width="50%">
 
 # 📜 CERTIFICATIONS
 
-<div align="center">
+✔ NSP Nexus — AI & ML
 
-| Certification   | Organization |
-| --------------- | ------------ |
-| AI & ML         | NSP Nexus    |
-| Web Development | NSP Nexus    |
-| Web Development | IBM          |
+✔ NSP Nexus — Web Development
 
-</div>
+✔ IBM — Web Development
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🎓 EDUCATION
 
-<div align="center">
+<table>
+<tr>
 
-🎓 **B.Tech – Computer Science & Engineering**
+<td width="100%">
+
+### 🎓 B.Tech — Computer Science & Engineering
+
 🏫 BS Abdur Rahman Crescent Institute of Science and Technology
+
 📅 2022 – 2026
+
 📈 CGPA: 7.1
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -268,7 +367,7 @@ Deployment 🚀
 
 <div align="center">
 
-### ⚡ "Building intelligent systems with AI-driven innovation." ⚡
+# ⚡ "Building intelligent systems with AI-driven innovation." ⚡
 
 </div>
 
