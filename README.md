@@ -1,8 +1,12 @@
-<!-- ========================= PREMIUM HEADER ========================= -->
+<!-- ====================== ANIMATED HEADER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:14B8A6,50:6366F1,80:8B5CF6,100:0F172A&height=220&section=header&text=MOHAMED%20AFZAL%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Generative%20AI%20Developer%20|%20NLP%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=58"/>
 
-<h3 align="center">🚀 AI/ML Engineer | Generative AI | NLP | Backend Development</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+AI+Systems;FastAPI+%7C+LLMs+%7C+RAG+%7C+Automation;Backend+Developer+%7C+Problem+Solver"/>
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:afzalmohamed098@gmail.com">
@@ -18,206 +22,229 @@
   </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohamedAfzal0719&label=Profile%20Views&color=14B8A6&style=for-the-badge"/>
-</p>
+---
+
+<div align="center">
+
+# ⚡ AI • AUTOMATION • INTELLIGENCE ⚡
+
+</div>
 
 ---
 
-# 💫 ABOUT ME
+# 🌌 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4YWQ1ZWQ0Y2E0YTZhZjEwNTU4MDAxNzQ3ODI4YTZkM2YxM2QzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
-✨ Passionate and self-driven AI/ML Engineer with strong hands-on experience in building intelligent systems using:
+✨ Passionate AI/ML Engineer focused on building intelligent systems, scalable backend applications, and modern AI workflows.
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning & Deep Learning
-* ⚡ Generative AI & LLM Applications
-* 💬 NLP & Conversational AI
-* 🔄 Workflow Automation Systems
-* 🌐 Backend API Development
+🚀 Strong practical exposure in:
 
-💡 Experienced in developing scalable AI applications using:
+✔ Generative AI & LLM Applications
+✔ Machine Learning & Deep Learning
+✔ RAG Architectures
+✔ Intelligent Automation
+✔ Workflow Orchestration
+✔ Backend API Development
+✔ Validation Pipelines
+✔ Runtime Event Handling
+✔ Scalable System Design
 
-```yaml
+💡 Skilled in designing AI-powered applications using:
+
+```yaml id="1t7s4d"
 Python • FastAPI • Flask • LangGraph
-Node.js • REST APIs • SQL • MongoDB
+Node.js • SQL • MongoDB • REST APIs
 ```
 
-🔥 Strong practical exposure in:
+🎯 Currently focused on building production-ready AI systems and scalable backend architectures.
 
-✔ Prompt Engineering
-✔ RAG Architectures
-✔ Validation Pipelines
-✔ Intelligent Automation
-✔ Runtime Event Handling
-✔ Fallback Mechanisms
-✔ Backend Optimization
-✔ Modular System Design
+</td>
 
-🎯 Currently focused on mastering advanced AI systems, backend engineering, and intelligent workflow orchestration.
+<td width="40%">
 
-<br clear="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedAfzal0719&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ TECH STACK
+# 🛠 TECH UNIVERSE
 
-<h3 align="center">👨‍💻 Languages & Technologies</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,mongodb,nodejs,flask,fastapi,vscode,git"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,mongodb,nodejs,flask,fastapi,git,vscode"/>
+
+</div>
 
 ---
 
-<h3 align="center">🤖 AI / ML Expertise</h3>
+# 🤖 AI STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-14B8A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Apps-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-14B8A6?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-## 🧠 LangGraph AI Question Answering System
+<table>
+<tr>
+<td width="50%">
 
-```yaml
-Tech Stack:
-FastAPI | LangGraph | Gemini API | Python
+## 🧠 LangGraph AI QA System
+
+```yaml id="31t1wz"
+FastAPI • LangGraph • Gemini API
 ```
 
-✨ AI-powered intelligent question answering platform with structured workflow orchestration.
+✨ Intelligent AI Question Answering Platform
 
-### 🔹 Features
+✔ Generator-Validator Workflow
+✔ Retry Handling Logic
+✔ AI Response Validation
+✔ Structured Workflow Design
+✔ Reliable AI Outputs
 
-* Generator & Validator Workflow
-* Retry Handling Logic
-* AI Response Validation
-* Controlled State Management
-* Reliable AI Output Generation
+</td>
 
----
+<td width="50%">
 
-## 🎬 AI Movie Synopsis Evaluation System
+## 🎬 AI Movie Synopsis Evaluation
 
-```yaml
-Tech Stack:
-Flask | Gemini API | Python
+```yaml id="q7v9s2"
+Flask • Gemini API • Python
 ```
 
-✨ Multi-agent AI system for intelligent movie synopsis analysis and evaluation.
+✨ Multi-Agent AI Evaluation System
 
-### 🔹 Features
+✔ Genre Classification
+✔ AI-based Scoring
+✔ Automated Evaluation
+✔ Prompt-driven AI Flow
+✔ Modular Backend Architecture
 
-* Genre Classification
-* AI-based Scoring
-* Automated Evaluation Generation
-* Prompt-driven AI Workflow
-* Modular Backend Architecture
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ## 📋 AI Task Manager
 
-```yaml
-Tech Stack:
-Python | NLP | REST APIs | JSON
+```yaml id="w2s7a1"
+Python • REST APIs • JSON
 ```
 
-✨ Intelligent task management application powered by NLP and Generative AI.
+✨ Intelligent AI Task Automation
 
-### 🔹 Features
+✔ Natural Language Tasks
+✔ Validation Pipelines
+✔ Workflow Management
+✔ Intelligent Automation
+✔ State-driven Processing
 
-* Natural Language Task Creation
-* Structured Workflow Management
-* Backend Validation Logic
-* Intelligent Automation
-* State-driven Processing
+</td>
+
+<td width="50%">
+
+## 🍔 PuduSuvai Food Delivery App
+
+```yaml id="f4x8p0"
+Node.js • Express.js • JavaScript
+```
+
+✨ Full-stack Food Ordering Platform
+
+✔ REST API Integration
+✔ Cart & Order System
+✔ Responsive UI Design
+✔ Client-Server Communication
+✔ Backend Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🍔 PuduSuvai – Food Delivery Web Application
+# 📊 SKILL MATRIX
 
-```yaml
-Tech Stack:
-HTML | CSS | JavaScript | Node.js | Express.js
-```
+<p align="center">
 
-✨ Full-stack responsive food ordering web application.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAfzal0719&theme=tokyonight&hide_border=true"/>
 
-### 🔹 Features
-
-* REST API Integration
-* Cart & Order Management
-* Interactive UI Design
-* Client-Server Communication
-* Modular Backend Architecture
+</p>
 
 ---
 
-## 🤖 BOT – Ration Card Assistance Chatbot
+# ⚡ DEVELOPMENT FLOW
 
-```yaml
-Tech Stack:
-Python | NLP
-```
-
-✨ Conversational AI chatbot for ration card assistance and eligibility guidance.
-
-### 🔹 Features
-
-* Rule-based NLP Flow
-* Automated User Guidance
-* Conversational Assistance
-* FAQ Handling
-* User-friendly Interaction
-
----
-
-# 📊 SKILL PROGRESS
-
-```text
-Python                ████████████████████   90%
-Generative AI         ██████████████████░   88%
-Machine Learning      █████████████████░░   85%
-FastAPI               ████████████████░░░   82%
-SQL                   ███████████████░░░░   80%
-Java                  ██████████████░░░░░   78%
-JavaScript            █████████████░░░░░░   75%
+```text id="0r7x2s"
+AI Idea 💡
+   ↓
+Problem Analysis 🔍
+   ↓
+Workflow Design ⚙
+   ↓
+Backend Architecture 🧠
+   ↓
+LLM Integration 🤖
+   ↓
+Validation Pipelines ✅
+   ↓
+Deployment 🚀
 ```
 
 ---
 
 # 🏆 ACHIEVEMENTS
 
-🥈 Secured 2nd Place in Men’s Physique Competition
-🏏 Participated in Competitive Cricket Tournaments
-🚀 Developed Multiple AI & Full-stack Applications
-💡 Strong Interest in AI Research & Intelligent Systems
+<div align="center">
+
+🥈 2nd Place — Men’s Physique Competition
+🏏 Competitive Cricket Tournament Participation
+🚀 Built Multiple AI & Full-stack Applications
+🧠 Strong Interest in AI Research & Intelligent Systems
+
+</div>
 
 ---
 
 # 📜 CERTIFICATIONS
 
-✔ NSP Nexus – AI & ML
-✔ NSP Nexus – Web Development
-✔ IBM – Web Development
+<div align="center">
+
+| Certification   | Organization |
+| --------------- | ------------ |
+| AI & ML         | NSP Nexus    |
+| Web Development | NSP Nexus    |
+| Web Development | IBM          |
+
+</div>
 
 ---
 
 # 🎓 EDUCATION
 
-🎓 B.Tech – Computer Science & Engineering
+<div align="center">
+
+🎓 **B.Tech – Computer Science & Engineering**
 🏫 BS Abdur Rahman Crescent Institute of Science and Technology
 📅 2022 – 2026
 📈 CGPA: 7.1
+
+</div>
 
 ---
 
@@ -225,7 +252,7 @@ JavaScript            █████████████░░░░░░ 
 
 <p align="center">
   <a href="mailto:afzalmohamed098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/">
@@ -239,4 +266,10 @@ JavaScript            █████████████░░░░░░ 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:14B8A6,50:6366F1,80:8B5CF6,100:0F172A&height=120&section=footer"/>
+<div align="center">
+
+### ⚡ "Building intelligent systems with AI-driven innovation." ⚡
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617"/>
