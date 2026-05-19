@@ -40,7 +40,7 @@
 
 <td width="35%">
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="260"/>
+<img src="[https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="260](https://github.com/MohamedAfzal0719/MohamedAfzal0719/blob/main/Afzal_image.jpeg)"/>
 
 </td>
 </tr>
