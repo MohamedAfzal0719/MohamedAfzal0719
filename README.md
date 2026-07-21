@@ -24,6 +24,24 @@
   </tr>
 </table>
 
+## 💻 INITIALIZING PROFILE...
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Mohamed Afzal S"
+        self.role = "AI/ML Engineer @ Enarxi Innovation Pvt Ltd"
+        self.education = "B.Tech CSE (2022-2026)"
+        self.specialties = ["Computer Vision (YOLOv8)", "Generative AI (LLMs, RAG)", "Backend (FastAPI)"]
+        
+    def build_system(self):
+        return "Deploying scalable AI applications with sub-second inference latency 🚀"
+        
+if __name__ == "__main__":
+    me = AIEngineer()
+    print(me.build_system())
+```
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -61,6 +79,26 @@
     *   Engineered a **BOM Automation** solution that reduced manual processing time by 60% and improved data extraction accuracy to 98%.
 *   **System Integration:**
     *   Integrated YOLOv8, OpenCV, FastAPI, PostgreSQL, and REST APIs to deploy scalable AI applications with sub-second latency.
+
+---
+
+## 🧠 SYSTEM ARCHITECTURE SHOWCASE
+
+Below is an architectural breakdown of my **LangGraph AI QA Pipeline**, demonstrating multi-stage AI orchestration:
+
+```mermaid
+graph TD;
+    A[User Query] --> B{Query Validator};
+    B -- Valid --> C[FastAPI Backend];
+    B -- Invalid --> X[Reject / Ask Clarification];
+    C --> D[Vector DB Retrieval];
+    D --> E[Gemini LLM Generation];
+    E --> F{Response Validator};
+    F -- Pass --> G[Final Response];
+    F -- Fail --> C;
+    style A fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#10b981,stroke:#fff,stroke-width:2px,color:#fff
+```
 
 ---
 
@@ -122,7 +160,13 @@
 
 ---
 
-## 📈 GITHUB STATS & ACTIVITY
+## 📈 GITHUB METRICS & ACTIVITY
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Detailed GitHub Metrics (Self-Hosted)" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedAfzal0719&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -143,6 +187,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedAfzal0719/MohamedAfzal0719/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
+## ⚡ RECENT GITHUB ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
