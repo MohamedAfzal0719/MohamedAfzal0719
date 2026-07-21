@@ -127,9 +127,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedAfzal0719&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAfzal0719&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAfzal0719&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
 </div>
 
 <table>
