@@ -1,24 +1,28 @@
 <!-- ====================== PREMIUM CYBER HEADER ====================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,20:1e293b,40:3b82f6,60:8b5cf6,80:ec4899,100:0f172a&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Enarxi%20Innovation%20Pvt%20Ltd&descAlignY=55&descSize=20"/>
-
-  <br>
-
-  <a href="mailto:afzalmohamed098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MohamedAfzal0719"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Scalable+Computer+Vision+Systems;Generative+AI+%26+LLM+Specialist;RAG+%7C+LangGraph+%7C+FastAPI;Automating+Complex+Workflows"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,20:1e293b,40:3b82f6,60:8b5cf6,80:ec4899,100:0f172a&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Enarxi%20Innovation%20Pvt%20Ltd&descAlignY=55&descSize=20"/>
 </div>
 
----
-
-## 👨‍💻 ABOUT ME
-
-I am an **AI/ML Engineer** currently working at **Enarxi Innovation Pvt Ltd**. I specialize in developing end-to-end intelligent systems, ranging from **Real-Time Computer Vision** models (YOLOv8, OpenCV) to **Enterprise Generative AI** agents (LLMs, RAG, LangGraph). I am passionate about optimizing backend architectures and deploying AI applications with sub-second inference latency.
+<table>
+  <tr>
+    <td width="65%" valign="center">
+      <div align="center">
+        <a href="mailto:afzalmohamed098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://github.com/MohamedAfzal0719"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Scalable+Computer+Vision+Systems;Generative+AI+%26+LLM+Specialist;RAG+%7C+LangGraph+%7C+FastAPI;Automating+Complex+Workflows"/>
+      </div>
+      <hr>
+      <b>## 👨‍💻 ABOUT ME</b><br><br>
+      I am an <b>AI/ML Engineer</b> currently working at <b>Enarxi Innovation Pvt Ltd</b>. I specialize in developing end-to-end intelligent systems, ranging from <b>Real-Time Computer Vision</b> models (YOLOv8, OpenCV) to <b>Enterprise Generative AI</b> agents (LLMs, RAG, LangGraph). I am passionate about optimizing backend architectures and deploying AI applications with sub-second inference latency.
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="Afzal_image.jpeg" width="100%" style="border-radius:15px;"/>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
