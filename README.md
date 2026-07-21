@@ -128,17 +128,17 @@
   <img src="https://komarev.com/ghpvc/?username=MohamedAfzal0719&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAfzal0719&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAfzal0719&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </div>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MohamedAfzal0719&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MohamedAfzal0719&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&v=1" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAfzal0719&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAfzal0719&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&v=1" alt="Top Languages" />
     </td>
   </tr>
 </table>
