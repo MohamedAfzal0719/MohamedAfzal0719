@@ -1,374 +1,185 @@
 <!-- ====================== PREMIUM CYBER HEADER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=60"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,20:1e293b,40:3b82f6,60:8b5cf6,80:ec4899,100:0f172a&text=MOHAMED%20AFZAL%20S&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Enarxi%20Innovation%20Pvt%20Ltd&descAlignY=55&descSize=20"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Scalable+AI+Systems;FastAPI+%7C+LLMs+%7C+RAG+%7C+Automation;Backend+Developer+%7C+Problem+Solver"/>
-</p>
+  <br>
+
+  <a href="mailto:afzalmohamed098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohamedAfzal0719"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Scalable+Computer+Vision+Systems;Generative+AI+%26+LLM+Specialist;RAG+%7C+LangGraph+%7C+FastAPI;Automating+Complex+Workflows"/>
+</div>
 
 ---
 
+## 👨‍💻 ABOUT ME
+
+I am an **AI/ML Engineer** currently working at **Enarxi Innovation Pvt Ltd**. I specialize in developing end-to-end intelligent systems, ranging from **Real-Time Computer Vision** models (YOLOv8, OpenCV) to **Enterprise Generative AI** agents (LLMs, RAG, LangGraph). I am passionate about optimizing backend architectures and deploying AI applications with sub-second inference latency.
+
 <table>
-<tr>
-<td width="65%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Core Focus</h3>
+      <ul>
+        <li><b>Computer Vision:</b> Real-time Object Detection & Tracking</li>
+        <li><b>Generative AI:</b> Multi-Agent Systems, RAG Pipelines</li>
+        <li><b>Backend Development:</b> Scalable APIs, Vector Databases</li>
+        <li><b>Intelligent Automation:</b> Complex Data Extraction & Bots</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <b>B.Tech - Computer Science & Engineering</b><br>
+      BS Abdur Rahman Crescent Institute Of Science and Technology<br>
+      <i>2022 - 2026</i>
+    </td>
+  </tr>
+</table>
 
-# 🚀 AI/ML ENGINEER
+---
 
-### Generative AI Developer • Backend Developer
+## 💼 PROFESSIONAL EXPERIENCE
 
-📧 [afzalmohamed098@gmail.com](mailto:afzalmohamed098@gmail.com)
-📱 +91 7305587959
-📍 Chennai, India
+### 🔹 AI/ML Engineer @ Enarxi Innovation Pvt Ltd
+*Feb 2026 – Present | Chennai, India*
+
+*   **Computer Vision Solutions:**
+    *   Developed an AI-powered **Conveyor Belt Monitoring System** for JSW Steel using **YOLOv8** (96% defect detection accuracy, 70% reduction in manual inspection).
+    *   Built a real-time **Material Detection and Classification** pipeline processing 30+ FPS (95% accuracy).
+    *   Designed a **Cement Bag Counting System** automating inventory verification (99% counting accuracy).
+*   **Generative AI & LLMs:**
+    *   Developed an enterprise **AI Agent** using **LLMs, RAG, FastAPI, and vector databases**, reducing document retrieval time from minutes to seconds.
+*   **Intelligent Automation:**
+    *   Engineered a **BOM Automation** solution that reduced manual processing time by 60% and improved data extraction accuracy to 98%.
+*   **System Integration:**
+    *   Integrated YOLOv8, OpenCV, FastAPI, PostgreSQL, and REST APIs to deploy scalable AI applications with sub-second latency.
+
+---
+
+## 🛠️ TECH STACK
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧠 AI & Machine Learning</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/><br><br>
+      <b>Machine Learning • Deep Learning</b><br>
+      Computer Vision • NLP<br>
+      GenAI • LLMs • RAG<br>
+      LangChain • LangGraph • YOLOv8
+    </td>
+    <td width="33%" align="center">
+      <h3>💻 Languages & DBs</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=python,postgres,mongo"/><br><br>
+      <b>Python • SQL</b><br>
+      PostgreSQL • MongoDB<br>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ Frameworks & Tools</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,git"/><br><br>
+      <b>FastAPI • Flask</b><br>
+      Playwright • AI Automation<br>
+      Chatbots • AI Agents
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 FEATURED PROJECTS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 LangGraph AI QA Web App</h3>
+      <p><i>FastAPI • LangGraph • Gemini LLM • RAG</i></p>
+      <ul>
+        <li>Built an AI-powered QA platform delivering contextual, document-aware responses through intelligent workflow orchestration.</li>
+        <li>Designed a multi-stage pipeline with query validation, intent routing, document retrieval, and retry mechanisms.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 AI Movie Synopsis Evaluation</h3>
+      <p><i>Flask • Gemini API • Multi-Agent</i></p>
+      <ul>
+        <li>Built a multi-agent AI application to analyze movie synopses and generate AI-powered genre classification and scoring.</li>
+        <li>Designed a modular architecture with specialized agents for analysis, classification, and response generation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GITHUB STATS & ACTIVITY
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedAfzal0719&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAfzal0719&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MohamedAfzal0719&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAfzal0719&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAfzal0719&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+</div>
 
 <br>
 
-<p>
-  <a href="mailto:afzalmohamed098@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/MohamedAfzal0719">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-
-<td width="35%">
-
-<img src="Afzal_image.jpeg"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌌 ABOUT ME
-
-<table>
-<tr>
-<td width="65%">
-
-✨ Passionate and self-driven AI/ML Engineer with strong practical experience in building intelligent systems, scalable backend applications, and Generative AI workflows.
-
-💡 Experienced in designing modern AI-powered applications using scalable architectures and intelligent automation systems.
-
-🚀 Strong practical exposure in:
-
-✔ Generative AI & LLM Applications
-✔ Machine Learning & Deep Learning
-✔ RAG Architectures
-✔ Backend API Development
-✔ Workflow Orchestration
-✔ Intelligent Automation
-✔ Validation Pipelines
-✔ Runtime Event Handling
-✔ Scalable Backend Systems
-✔ Problem Solving & Optimization
-
-🎯 Focused on building production-ready AI systems with scalable backend architectures and modern automation workflows.
-
-</td>
-
-<td width="35%">
-
-# 🚀 WHAT DRIVES ME
-
-🎯 Building impactful AI solutions
-📚 Continuously learning technologies
-⚡ Writing scalable backend systems
-🧠 Solving real-world problems
-🚀 Exploring intelligent automation
-💡 Creating production-ready systems
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ TECH STACK
-
-<table>
-<tr>
-
-<td width="33%">
-
-# 👨‍💻 LANGUAGES
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
-</p>
-
 <div align="center">
-
-Python • Java • JavaScript • SQL
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAfzal0719/MohamedAfzal0719/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAfzal0719/MohamedAfzal0719/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedAfzal0719/MohamedAfzal0719/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-</td>
+---
 
-<td width="33%">
+## 🏆 CERTIFICATIONS & COMPETENCIES
 
-# 🤖 AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 Certifications</h3>
+      <ul>
+        <li><b>Data Science</b> — Besant Technologies</li>
+        <li><b>AI & ML</b> — NSP Nexus</li>
+        <li><b>Web Development</b> — NSP Nexus</li>
+        <li><b>Web Development</b> — IBM</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Core Competencies</h3>
+      <ul>
+        <li>Problem-Solving & Debugging</li>
+        <li>Analytical & Data-Driven Thinking</li>
+        <li>System Design Thinking</li>
+        <li>Technical Communication & Collaboration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-Machine Learning
-Deep Learning
-Generative AI
-RAG
-LLM Applications
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,20:1e293b,40:3b82f6,60:8b5cf6,80:ec4899,100:0f172a"/>
 </div>
-
-</td>
-
-<td width="33%">
-
-# ⚙ FRAMEWORKS
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,git,vscode"/>
-</p>
-
-<div align="center">
-
-FastAPI • Flask
-Node.js • MongoDB
-Git • VS Code
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-
-<td width="50%">
-
-# 🧠 LangGraph AI QA System
-
-```yaml
-FastAPI • LangGraph • Gemini API
-```
-
-✨ AI-powered question answering platform with structured workflow orchestration.
-
-### 🔹 Features
-
-* Generator-Validator Workflow
-* Retry Handling Logic
-* AI Response Validation
-* Controlled AI State Flow
-* Reliable AI Output Generation
-
-</td>
-
-<td width="50%">
-
-# 🎬 AI Movie Synopsis Evaluation
-
-```yaml
-Flask • Gemini API • Python
-```
-
-✨ Multi-agent AI system for intelligent movie synopsis analysis.
-
-### 🔹 Features
-
-* Genre Classification
-* AI-based Scoring
-* Automated Evaluation
-* Prompt-driven AI Workflows
-* Modular Backend Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-# 📋 AI Task Manager
-
-```yaml
-Python • REST APIs • JSON
-```
-
-✨ Intelligent task automation powered by Generative AI.
-
-### 🔹 Features
-
-* Natural Language Task Creation
-* Workflow Management
-* Intelligent Automation
-* Validation Pipelines
-* State-driven Processing
-
-</td>
-
-<td width="50%">
-
-# 🍔 PuduSuvai Food Delivery App
-
-```yaml
-Node.js • Express.js • JavaScript
-```
-
-✨ Full-stack responsive food ordering application.
-
-### 🔹 Features
-
-* REST API Integration
-* Cart & Order Management
-* Responsive UI Design
-* Client-Server Communication
-* Modular Backend Architecture
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 SKILLS & EXPERTISE
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚀 TECHNICAL SKILLS
-
-| Skill            | Progress                 |
-| ---------------- | ------------------------ |
-| Python           | ████████████████████ 90% |
-| Generative AI    | ██████████████████░ 88%  |
-| Machine Learning | █████████████████░░ 85%  |
-| FastAPI          | ████████████████░░░ 82%  |
-| SQL              | ███████████████░░░░ 80%  |
-| Java             | ██████████████░░░░░ 78%  |
-| JavaScript       | █████████████░░░░░░ 75%  |
-
-</td>
-
-<td width="50%">
-
-### 🧠 CORE COMPETENCIES
-
-✔ Analytical Thinking
-✔ Problem Solving
-✔ System Design
-✔ Backend Development
-✔ Technical Communication
-✔ Debugging & Optimization
-✔ Team Collaboration
-✔ Intelligent Automation
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<table>
-<tr>
-
-<td width="50%">
-
-🥈 2nd Place — Men’s Physique Competition
-
-🏏 Participated in Competitive Cricket Tournaments
-
-🚀 Developed Multiple AI & Full-stack Applications
-
-🧠 Strong Interest in AI Research & Intelligent Systems
-
-</td>
-
-<td width="50%">
-
-# 📜 CERTIFICATIONS
-
-✔ NSP Nexus — AI & ML
-
-✔ NSP Nexus — Web Development
-
-✔ IBM — Web Development
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎓 EDUCATION
-
-<table>
-<tr>
-
-<td width="100%">
-
-### 🎓 B.Tech — Computer Science & Engineering
-
-🏫 BS Abdur Rahman Crescent Institute of Science and Technology
-
-📅 2022 – 2026
-
-📈 CGPA: 7.1
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="mailto:afzalmohamed098@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamed-afzal-6732a7202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/MohamedAfzal0719">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-# ⚡ "Building intelligent systems with AI-driven innovation." ⚡
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:14B8A6,60:6366F1,80:8B5CF6,100:020617"/>
