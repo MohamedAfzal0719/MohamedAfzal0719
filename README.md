@@ -15,7 +15,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Scalable+Computer+Vision+Systems;Generative+AI+%26+LLM+Specialist;RAG+%7C+LangGraph+%7C+FastAPI;Automating+Complex+Workflows"/>
       </div>
       <hr>
-      <b>## 👨‍💻 ABOUT ME</b><br><br>
+      <b> 👨‍💻 ABOUT ME</b><br><br>
       I am an <b>AI/ML Engineer</b> currently working at <b>Enarxi Innovation Pvt Ltd</b>. I specialize in developing end-to-end intelligent systems, ranging from <b>Real-Time Computer Vision</b> models (YOLOv8, OpenCV) to <b>Enterprise Generative AI</b> agents (LLMs, RAG, LangGraph). I am passionate about optimizing backend architectures and deploying AI applications with sub-second inference latency.
     </td>
     <td width="35%" align="center" valign="center">
